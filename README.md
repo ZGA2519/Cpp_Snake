@@ -3,7 +3,7 @@
 A simple c++ snake game with raylib
 
 # How to play 
-- c++ compiler (gcc or clang) requires
+- `gcc` requires
 - `make` requires 
 - you need to remove some -framework in makefile if you not using MacOS (I'm implementing this in MacOS so I need that)
 - compile by
