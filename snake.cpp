@@ -148,8 +148,7 @@ int main() {
         ClearBackground(RAYWHITE);
 
         DrawText(TextFormat("Score: %d", score), 10, 10, 20, DARKGRAY);
-        DrawText("Press R to reset", SCREEN_WIDTH - 190, SCREEN_HEIGHT - 50, 20,
-                 DARKGRAY);
+
         DrawText("Press Q to quit", SCREEN_WIDTH - 190, SCREEN_HEIGHT - 30, 20,
                  DARKGRAY);
 
